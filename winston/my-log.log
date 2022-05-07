@@ -1,0 +1,6 @@
+2022-04-30T20:28:39.560Z [my-app error: error]
+2022-04-30T20:28:39.561Z [my-app warn: warn]
+2022-04-30T20:28:39.561Z [my-app info: info]
+2022-04-30T20:28:39.562Z [my-app verbose: verbose]
+2022-04-30T20:28:39.562Z [my-app debug: debug]
+2022-04-30T20:28:39.562Z [my-app silly: silly]

@@ -1,0 +1,382 @@
+2022-05-01T15:08:35.434Z [my-bank-api] info: API Started
+2022-05-01T15:08:35.436Z [my-bank-api] info: Server in port 3000
+2022-05-01T15:28:33.109Z [my-bank-api] info: API Started
+2022-05-01T15:28:33.111Z [my-bank-api] info: Server in port 3000
+2022-05-01T15:32:01.289Z [my-bank-api] info: API Started
+2022-05-01T15:32:01.290Z [my-bank-api] info: Server in port 3000
+2022-05-01T15:32:40.106Z [my-bank-api] info: POST / Account {"id":2,"name":"deda Schapowal","balance":200221.32}
+2022-05-01T15:32:45.978Z [my-bank-api] info: GET / Account 
+2022-05-01T15:34:53.275Z [my-bank-api] info: API Started
+2022-05-01T15:34:53.279Z [my-bank-api] info: Server in port 3000
+2022-05-01T15:36:20.814Z [my-bank-api] info: API Started
+2022-05-01T15:36:20.815Z [my-bank-api] info: Server in port 3000
+2022-05-01T15:38:04.281Z [my-bank-api] info: POST / Account {"id":3,"name":"deda Schapowal","balance":200221.32}
+2022-05-01T15:39:08.272Z [my-bank-api] info: API Started
+2022-05-01T15:39:08.274Z [my-bank-api] info: Server in port 3000
+2022-05-01T15:40:58.927Z [my-bank-api] info: API Started
+2022-05-01T15:40:58.929Z [my-bank-api] info: Server in port 3000
+2022-05-01T15:41:37.574Z [my-bank-api] info: PATCH / account/updateBalance {"id":1,"balance":2021.32}
+2022-05-01T15:42:38.083Z [my-bank-api] info: API Started
+2022-05-01T15:42:38.085Z [my-bank-api] info: Server in port 3000
+2022-05-01T15:43:34.579Z [my-bank-api] info: API Started
+2022-05-01T15:43:34.581Z [my-bank-api] info: Server in port 3000
+2022-05-01T15:46:47.272Z [my-bank-api] info: API Started
+2022-05-01T15:46:47.274Z [my-bank-api] info: Server in port 3000
+2022-05-01T15:48:10.851Z [my-bank-api] info: API Started
+2022-05-01T15:48:10.853Z [my-bank-api] info: Server in port 3000
+2022-05-01T15:48:45.822Z [my-bank-api] info: PATCH / account/updateBalance {
+  "id": 1,
+  "balance": 1000
+}
+2022-05-01T15:51:59.604Z [my-bank-api] info: API Started
+2022-05-01T15:51:59.606Z [my-bank-api] info: Server in port 3000
+2022-05-01T15:52:06.369Z [my-bank-api] info: GET / Account 
+2022-05-01T15:53:29.342Z [my-bank-api] info: PUT / Account {"id":1,"name":"Fabio Barbosa Schapowal","balance":20012121}
+2022-05-01T15:54:30.252Z [my-bank-api] info: API Started
+2022-05-01T15:54:30.253Z [my-bank-api] info: Server in port 3000
+2022-05-01T16:04:33.935Z [my-bank-api] info: API Started
+2022-05-01T16:04:33.937Z [my-bank-api] info: Server in port 3000
+2022-05-01T16:04:58.163Z [my-bank-api] info: API Started
+2022-05-01T16:04:58.164Z [my-bank-api] info: Server in port 3000
+2022-05-01T16:51:23.904Z [my-bank-api] info: API Started
+2022-05-01T16:51:23.905Z [my-bank-api] info: Server in port 3000
+2022-05-01T16:52:32.311Z [my-bank-api] info: API Started
+2022-05-01T16:52:32.313Z [my-bank-api] info: Server in port 3000
+2022-05-01T16:59:38.545Z [my-bank-api] info: API Started
+2022-05-01T16:59:38.547Z [my-bank-api] info: Server in port 3000
+2022-05-01T17:00:58.939Z [my-bank-api] info: GET / Account 
+2022-05-01T17:01:04.337Z [my-bank-api] info: GET / Account 
+2022-05-01T17:01:23.253Z [my-bank-api] info: GET / Account 
+2022-05-01T17:01:30.820Z [my-bank-api] info: GET / Account 
+2022-05-01T17:38:45.603Z [my-bank-api] info: API Started
+2022-05-01T17:38:45.605Z [my-bank-api] info: Server in port 3000
+2022-05-01T17:38:48.391Z [my-bank-api] info: GET / Account/:id 
+2022-05-01T17:38:56.931Z [my-bank-api] info: GET / Account/:id 
+2022-05-01T17:39:21.173Z [my-bank-api] info: GET / Account/:id 
+2022-05-01T17:39:58.140Z [my-bank-api] info: API Started
+2022-05-01T17:39:58.141Z [my-bank-api] info: Server in port 3000
+2022-05-01T17:43:13.625Z [my-bank-api] info: Server in port 3000
+2022-05-01T17:43:13.628Z [my-bank-api] info: API Started and File Created
+2022-05-01T17:43:17.889Z [my-bank-api] info: GET / Account 
+2022-05-01T17:43:18.958Z [my-bank-api] info: GET / Account 
+2022-05-01T17:45:16.069Z [my-bank-api] info: Server in port 3000
+2022-05-01T17:45:16.076Z [my-bank-api] info: API Started and File Created
+2022-05-01T17:46:03.075Z [my-bank-api] info: GET / Account 
+2022-05-01T17:47:39.285Z [my-bank-api] info: API Started
+2022-05-01T17:47:39.286Z [my-bank-api] info: Server in port 3000
+2022-05-01T17:49:34.435Z [my-bank-api] info: GET / Account 
+2022-05-01T17:50:07.411Z [my-bank-api] info: GET / Account 
+2022-05-01T17:57:54.015Z [my-bank-api] info: API Started
+2022-05-01T17:57:54.016Z [my-bank-api] info: Server in port 3000
+2022-05-01T17:57:57.117Z [my-bank-api] info: GET / Account 
+2022-05-01T17:58:09.446Z [my-bank-api] info: API Started
+2022-05-01T17:58:09.447Z [my-bank-api] info: Server in port 3000
+2022-05-01T17:58:46.423Z [my-bank-api] info: Server in port 3000
+2022-05-01T17:58:46.427Z [my-bank-api] info: API Started and File Created
+2022-05-01T17:58:49.085Z [my-bank-api] info: GET / Account 
+2022-05-01T17:59:15.521Z [my-bank-api] info: Server in port 3000
+2022-05-01T17:59:15.525Z [my-bank-api] info: API Started and File Created
+2022-05-01T17:59:18.637Z [my-bank-api] info: GET / Account 
+2022-05-01T18:00:05.367Z [my-bank-api] info: Server in port 3000
+2022-05-01T18:00:05.370Z [my-bank-api] info: API Started and File Created
+2022-05-01T18:00:53.313Z [my-bank-api] info: Server in port 3000
+2022-05-01T18:00:53.317Z [my-bank-api] info: API Started and File Created
+2022-05-01T18:01:38.268Z [my-bank-api] info: API Started
+2022-05-01T18:01:38.269Z [my-bank-api] info: Server in port 3000
+2022-05-01T18:02:15.095Z [my-bank-api] info: API Started
+2022-05-01T18:02:15.096Z [my-bank-api] info: Server in port 3000
+2022-05-01T18:02:34.326Z [my-bank-api] info: API Started
+2022-05-01T18:02:34.328Z [my-bank-api] info: Server in port 3000
+2022-05-03T19:21:50.385Z [my-bank-api] info: API Started
+2022-05-03T19:21:50.387Z [my-bank-api] info: Server in port 3000
+2022-05-03T19:24:09.747Z [my-bank-api] info: GET / Account 
+2022-05-03T19:28:42.380Z [my-bank-api] info: GET / Account 
+2022-05-03T19:30:06.634Z [my-bank-api] info: API Started
+2022-05-03T19:30:06.636Z [my-bank-api] info: Server in port 3000
+2022-05-03T19:30:31.449Z [my-bank-api] info: API Started
+2022-05-03T19:30:31.451Z [my-bank-api] info: Server in port 3000
+2022-05-03T19:30:48.071Z [my-bank-api] info: GET / Account 
+2022-05-03T19:31:12.402Z [my-bank-api] info: GET / Account 
+2022-05-03T19:35:48.541Z [my-bank-api] info: API Started
+2022-05-03T19:35:48.543Z [my-bank-api] info: Server in port 3000
+2022-05-03T19:35:51.825Z [my-bank-api] info: GET / Account 
+2022-05-03T19:36:07.142Z [my-bank-api] info: GET / Account/:id 
+2022-05-03T19:38:49.472Z [my-bank-api] info: API Started
+2022-05-03T19:38:49.474Z [my-bank-api] info: Server in port 3000
+2022-05-03T19:39:11.546Z [my-bank-api] info: POST / Account {"id":1,"name":"daqa Schapowal","balance":"2121,21"}
+2022-05-03T19:39:23.774Z [my-bank-api] info: POST / Account {"id":2,"name":"dafa Schapowal","balance":"213,21"}
+2022-05-03T19:39:35.914Z [my-bank-api] info: GET / Account 
+2022-05-03T19:43:37.582Z [my-bank-api] info: API Started
+2022-05-03T19:43:37.583Z [my-bank-api] info: Server in port 3000
+2022-05-03T19:58:07.640Z [my-bank-api] info: API Started
+2022-05-03T19:58:07.641Z [my-bank-api] info: Server in port 3000
+2022-05-03T19:58:14.155Z [my-bank-api] info: GET / Account 
+2022-05-03T19:58:22.776Z [my-bank-api] info: GET / Account 
+2022-05-03T20:13:43.135Z [my-bank-api] info: API Started
+2022-05-03T20:13:43.137Z [my-bank-api] info: Server in port 3000
+2022-05-03T20:13:47.639Z [my-bank-api] info: API Started
+2022-05-03T20:13:47.641Z [my-bank-api] info: Server in port 3000
+2022-05-03T20:15:33.917Z [my-bank-api] info: API Started
+2022-05-03T20:15:33.919Z [my-bank-api] info: Server in port 3000
+2022-05-03T20:18:02.928Z [my-bank-api] info: API Started
+2022-05-03T20:18:02.930Z [my-bank-api] info: Server in port 3000
+2022-05-03T20:18:24.464Z [my-bank-api] info: API Started
+2022-05-03T20:18:24.466Z [my-bank-api] info: Server in port 3000
+2022-05-03T20:20:18.431Z [my-bank-api] info: API Started
+2022-05-03T20:20:18.432Z [my-bank-api] info: Server in port 3000
+2022-05-03T20:20:28.947Z [my-bank-api] info: API Started
+2022-05-03T20:20:28.949Z [my-bank-api] info: Server in port 3000
+2022-05-03T20:20:50.780Z [my-bank-api] info: API Started
+2022-05-03T20:20:50.781Z [my-bank-api] info: Server in port 3000
+2022-05-03T20:23:45.167Z [my-bank-api] info: API Started
+2022-05-03T20:23:45.169Z [my-bank-api] info: Server in port 3000
+2022-05-03T20:24:31.250Z [my-bank-api] info: GET / Account 
+2022-05-03T20:24:40.621Z [my-bank-api] info: POST / Account {"id":3,"name":"dafada Schapowal","balance":"2134,21"}
+2022-05-03T20:24:50.471Z [my-bank-api] info: POST / Account {"id":4,"name":"dafaaada Schapowal","balance":"213412,21"}
+2022-05-03T20:24:53.172Z [my-bank-api] info: GET / Account 
+2022-05-03T20:25:00.426Z [my-bank-api] info: Delete / account/:id - 4 
+2022-05-03T20:25:07.860Z [my-bank-api] info: GET / Account 
+2022-05-03T20:25:42.251Z [my-bank-api] info: API Started
+2022-05-03T20:25:42.252Z [my-bank-api] info: Server in port 3000
+2022-05-03T20:25:50.748Z [my-bank-api] info: Delete / account/:id - 3 
+2022-05-03T20:25:54.688Z [my-bank-api] info: Delete / account/:id - 3 
+2022-05-03T20:25:58.540Z [my-bank-api] info: Delete / account/:id - 5 
+2022-05-03T20:26:44.520Z [my-bank-api] info: GET / Account 
+2022-05-03T20:27:07.672Z [my-bank-api] info: PUT / Account {"id":2,"name":"dafa Schapowal","balance":"213212,21"}
+2022-05-03T20:27:41.574Z [my-bank-api] info: PATCH / account/updateBalance {
+  "id": 1,
+  "balance": "213244412,21"
+}
+2022-05-03T20:27:45.301Z [my-bank-api] info: GET / Account 
+2022-05-03T20:27:53.828Z [my-bank-api] info: API Started
+2022-05-03T20:27:53.830Z [my-bank-api] info: Server in port 3000
+2022-05-03T20:29:02.706Z [my-bank-api] info: API Started
+2022-05-03T20:29:02.708Z [my-bank-api] info: Server in port 3000
+2022-05-04T18:23:10.834Z [my-bank-api] info: API Started
+2022-05-04T18:23:10.836Z [my-bank-api] info: Server in port 3000
+2022-05-04T18:29:39.108Z [my-bank-api] info: API Started
+2022-05-04T18:29:39.110Z [my-bank-api] info: Server in port 3000
+2022-05-04T18:31:39.594Z [my-bank-api] info: API Started
+2022-05-04T18:31:39.596Z [my-bank-api] info: Server in port 3000
+2022-05-04T18:35:14.318Z [my-bank-api] info: API Started
+2022-05-04T18:35:14.320Z [my-bank-api] info: Server in port 3000
+2022-05-04T18:36:48.076Z [my-bank-api] info: API Started
+2022-05-04T18:36:48.077Z [my-bank-api] info: Server in port 3000
+2022-05-04T18:37:00.680Z [my-bank-api] info: API Started
+2022-05-04T18:37:00.682Z [my-bank-api] info: Server in port 3000
+2022-05-04T18:39:00.880Z [my-bank-api] info: API Started
+2022-05-04T18:39:00.881Z [my-bank-api] info: Server in port 3000
+2022-05-04T18:39:40.253Z [my-bank-api] info: GET / Account 
+2022-05-04T18:40:35.393Z [my-bank-api] info: GET / Account 
+2022-05-04T18:46:21.982Z [my-bank-api] info: API Started
+2022-05-04T18:46:21.984Z [my-bank-api] info: Server in port 3000
+2022-05-04T18:46:32.052Z [my-bank-api] info: POST / Account {"id":5,"name":"gaga Schapowal","balance":"12.00"}
+2022-05-04T18:52:21.692Z [my-bank-api] info: API Started
+2022-05-04T18:52:21.693Z [my-bank-api] info: Server in port 3000
+2022-05-04T18:53:47.935Z [my-bank-api] info: API Started
+2022-05-04T18:53:47.937Z [my-bank-api] info: Server in port 3000
+2022-05-04T18:53:55.484Z [my-bank-api] info: GET / Account 
+2022-05-04T18:53:57.634Z [my-bank-api] info: GET / Account 
+2022-05-04T18:55:35.565Z [my-bank-api] info: API Started
+2022-05-04T18:55:35.566Z [my-bank-api] info: Server in port 3000
+2022-05-04T18:56:00.350Z [my-bank-api] info: API Started
+2022-05-04T18:56:00.352Z [my-bank-api] info: Server in port 3000
+2022-05-04T18:59:40.546Z [my-bank-api] info: API Started
+2022-05-04T18:59:40.547Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:02:37.981Z [my-bank-api] info: API Started
+2022-05-04T19:02:37.982Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:04:37.687Z [my-bank-api] info: API Started
+2022-05-04T19:04:37.689Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:05:25.622Z [my-bank-api] info: API Started
+2022-05-04T19:05:25.624Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:07:19.898Z [my-bank-api] info: API Started
+2022-05-04T19:07:19.900Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:13:31.941Z [my-bank-api] info: API Started
+2022-05-04T19:13:31.943Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:14:14.780Z [my-bank-api] info: API Started
+2022-05-04T19:14:14.783Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:17:44.149Z [my-bank-api] info: API Started
+2022-05-04T19:17:44.151Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:18:12.368Z [my-bank-api] info: API Started
+2022-05-04T19:18:12.370Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:19:38.576Z [my-bank-api] info: API Started
+2022-05-04T19:19:38.578Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:20:44.276Z [my-bank-api] info: API Started
+2022-05-04T19:20:44.278Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:21:14.685Z [my-bank-api] info: GET / Account 
+2022-05-04T19:21:19.937Z [my-bank-api] info: GET / Account 
+2022-05-04T19:21:28.747Z [my-bank-api] info: POST / Account {"id":6,"name":"gagaq Schapowal","balance":"121.00"}
+2022-05-04T19:21:39.516Z [my-bank-api] info: PUT / Account {"id":2,"name":"dafa Schapowal","balance":"213212,21"}
+2022-05-04T19:21:44.400Z [my-bank-api] info: GET / Account 
+2022-05-04T19:22:09.551Z [my-bank-api] info: PATCH / account/updateBalance {
+  "id": 1,
+  "balance": "111111,21"
+}
+2022-05-04T19:22:12.184Z [my-bank-api] info: GET / Account 
+2022-05-04T19:22:22.339Z [my-bank-api] info: Delete / account/:id - 6 
+2022-05-04T19:22:32.289Z [my-bank-api] info: GET / Account 
+2022-05-04T19:23:21.710Z [my-bank-api] info: PUT / Account {"id":2,"name":"dasasa Schapowal","balance":"213212,21"}
+2022-05-04T19:23:25.760Z [my-bank-api] info: GET / Account 
+2022-05-04T19:40:31.006Z [my-bank-api] info: API Started
+2022-05-04T19:40:31.008Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:40:31.372Z [my-bank-api] info: API Started
+2022-05-04T19:40:31.373Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:44:19.122Z [my-bank-api] info: API Started
+2022-05-04T19:44:19.123Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:46:53.653Z [my-bank-api] info: API Started
+2022-05-04T19:46:53.655Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:49:42.227Z [my-bank-api] info: API Started
+2022-05-04T19:49:42.229Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:50:00.706Z [my-bank-api] info: GET / Account 
+2022-05-04T19:52:12.350Z [my-bank-api] info: API Started
+2022-05-04T19:52:12.352Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:54:01.391Z [my-bank-api] info: API Started
+2022-05-04T19:54:01.393Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:54:20.875Z [my-bank-api] info: API Started
+2022-05-04T19:54:20.877Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:56:43.797Z [my-bank-api] info: API Started
+2022-05-04T19:56:43.799Z [my-bank-api] info: Server in port 3000
+2022-05-04T19:57:30.914Z [my-bank-api] info: API Started
+2022-05-04T19:57:30.916Z [my-bank-api] info: Server in port 3000
+2022-05-04T20:01:37.232Z [my-bank-api] info: API Started
+2022-05-04T20:01:37.234Z [my-bank-api] info: Server in port 3000
+2022-05-04T20:07:31.537Z [my-bank-api] info: API Started
+2022-05-04T20:07:31.539Z [my-bank-api] info: Server in port 3000
+2022-05-04T20:07:33.478Z [my-bank-api] info: API Started
+2022-05-04T20:07:33.480Z [my-bank-api] info: Server in port 3000
+2022-05-04T20:16:18.900Z [my-bank-api] info: API Started
+2022-05-04T20:16:18.901Z [my-bank-api] info: Server in port 3000
+2022-05-04T20:16:51.467Z [my-bank-api] info: API Started
+2022-05-04T20:16:51.469Z [my-bank-api] info: Server in port 3000
+2022-05-04T20:18:15.481Z [my-bank-api] info: API Started
+2022-05-04T20:18:15.483Z [my-bank-api] info: Server in port 3000
+2022-05-04T20:18:20.005Z [my-bank-api] info: GET / Account 
+2022-05-04T20:18:53.544Z [my-bank-api] info: GET / Account 
+2022-05-04T20:18:59.724Z [my-bank-api] info: GET / Account/:id 
+2022-05-04T20:19:10.000Z [my-bank-api] info: Delete / account/:id - 1 
+2022-05-04T20:19:16.410Z [my-bank-api] info: GET / Account 
+2022-05-04T20:19:32.075Z [my-bank-api] info: PUT / Account {"id":2,"name":"dasasadada Schapowal","balance":"213212,21"}
+2022-05-04T20:19:34.825Z [my-bank-api] info: GET / Account 
+2022-05-04T20:19:55.960Z [my-bank-api] info: PATCH / account/updateBalance {
+  "id": 2,
+  "balance": "1,21"
+}
+2022-05-04T20:19:59.042Z [my-bank-api] info: GET / Account 
+2022-05-04T20:21:20.971Z [my-bank-api] info: API Started
+2022-05-04T20:21:20.973Z [my-bank-api] info: Server in port 3000
+2022-05-04T20:21:43.799Z [my-bank-api] info: PATCH / account/updateBalance {
+  "id": 5,
+  "balance": "1,21"
+}
+2022-05-04T20:21:47.115Z [my-bank-api] info: GET / Account 
+2022-05-04T20:24:42.765Z [my-bank-api] info: API Started
+2022-05-04T20:24:42.766Z [my-bank-api] info: Server in port 3000
+2022-05-04T20:25:32.142Z [my-bank-api] info: API Started
+2022-05-04T20:25:32.143Z [my-bank-api] info: Server in port 3000
+2022-05-04T20:25:42.064Z [my-bank-api] info: POST / Account {"id":7,"name":"gagaqwqe Schapowal","balance":"121121212.00"}
+2022-05-04T20:25:45.708Z [my-bank-api] info: GET / Account 
+2022-05-05T20:46:54.301Z [my-bank-api] info: API Started
+2022-05-05T20:46:54.303Z [my-bank-api] info: Server in port 3000
+2022-05-05T20:47:37.411Z [my-bank-api] info: GET / Account 
+2022-05-05T20:53:04.660Z [my-bank-api] info: GET / Account 
+2022-05-05T20:53:05.915Z [my-bank-api] info: GET / Account 
+2022-05-05T20:53:06.625Z [my-bank-api] info: GET / Account 
+2022-05-05T20:53:23.966Z [my-bank-api] info: GET / Account/:id 
+2022-05-05T21:00:49.734Z [my-bank-api] info: API Started
+2022-05-05T21:00:49.736Z [my-bank-api] info: Server in port 3000
+2022-05-05T21:01:19.853Z [my-bank-api] info: API Started
+2022-05-05T21:01:19.855Z [my-bank-api] info: Server in port 3000
+2022-05-05T21:03:38.694Z [my-bank-api] info: API Started
+2022-05-05T21:03:38.698Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:07:44.192Z [my-bank-api] info: API Started
+2022-05-06T19:07:44.193Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:22:19.614Z [my-bank-api] info: API Started
+2022-05-06T19:22:19.615Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:24:53.257Z [my-bank-api] info: API Started
+2022-05-06T19:24:53.259Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:25:53.566Z [my-bank-api] info: API Started
+2022-05-06T19:25:53.567Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:28:31.048Z [my-bank-api] info: API Started
+2022-05-06T19:28:31.050Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:32:26.259Z [my-bank-api] info: API Started
+2022-05-06T19:32:26.261Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:51:45.981Z [my-bank-api] info: API Started
+2022-05-06T19:51:45.983Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:52:02.787Z [my-bank-api] info: API Started
+2022-05-06T19:52:02.789Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:52:31.794Z [my-bank-api] info: API Started
+2022-05-06T19:52:31.795Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:55:27.003Z [my-bank-api] info: API Started
+2022-05-06T19:55:27.005Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:55:43.819Z [my-bank-api] info: API Started
+2022-05-06T19:55:43.820Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:56:14.731Z [my-bank-api] info: API Started
+2022-05-06T19:56:14.733Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:56:15.124Z [my-bank-api] info: API Started
+2022-05-06T19:56:15.126Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:56:44.726Z [my-bank-api] info: API Started
+2022-05-06T19:56:44.728Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:57:04.482Z [my-bank-api] info: API Started
+2022-05-06T19:57:04.484Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:57:08.541Z [my-bank-api] info: API Started
+2022-05-06T19:57:08.543Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:57:09.279Z [my-bank-api] info: API Started
+2022-05-06T19:57:09.281Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:57:51.872Z [my-bank-api] info: API Started
+2022-05-06T19:57:51.874Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:58:18.210Z [my-bank-api] info: API Started
+2022-05-06T19:58:18.212Z [my-bank-api] info: Server in port 3000
+2022-05-06T19:58:29.953Z [my-bank-api] info: API Started
+2022-05-06T19:58:29.956Z [my-bank-api] info: Server in port 3000
+2022-05-06T20:19:08.347Z [my-bank-api] info: API Started
+2022-05-06T20:19:08.349Z [my-bank-api] info: Server in port 3000
+2022-05-07T07:28:27.908Z [my-bank-api] info: API Started
+2022-05-07T07:28:27.909Z [my-bank-api] info: Server in port 3000
+2022-05-07T07:30:27.472Z [my-bank-api] info: API Started
+2022-05-07T07:30:27.474Z [my-bank-api] info: Server in port 3000
+2022-05-07T07:30:37.713Z [my-bank-api] info: API Started
+2022-05-07T07:30:37.714Z [my-bank-api] info: Server in port 3000
+2022-05-07T07:31:42.430Z [my-bank-api] info: API Started
+2022-05-07T07:31:42.432Z [my-bank-api] info: Server in port 3000
+2022-05-07T07:35:49.771Z [my-bank-api] info: API Started
+2022-05-07T07:35:49.773Z [my-bank-api] info: Server in port 3000
+2022-05-07T07:42:39.069Z [my-bank-api] info: API Started
+2022-05-07T07:42:39.071Z [my-bank-api] info: Server in port 3000
+2022-05-07T07:46:02.094Z [my-bank-api] info: API Started
+2022-05-07T07:46:02.096Z [my-bank-api] info: Server in port 3000
+2022-05-07T07:47:08.982Z [my-bank-api] info: API Started
+2022-05-07T07:47:08.984Z [my-bank-api] info: Server in port 3000
+2022-05-07T07:49:30.394Z [my-bank-api] info: API Started
+2022-05-07T07:49:30.396Z [my-bank-api] info: Server in port 3000
+2022-05-07T07:50:15.340Z [my-bank-api] info: API Started
+2022-05-07T07:50:15.342Z [my-bank-api] info: Server in port 3000
+2022-05-07T08:38:35.150Z [my-bank-api] info: API Started
+2022-05-07T08:38:35.151Z [my-bank-api] info: Server in port 3000
+2022-05-07T08:38:51.664Z [my-bank-api] info: API Started
+2022-05-07T08:38:51.666Z [my-bank-api] info: Server in port 3000
+2022-05-07T08:50:38.298Z [my-bank-api] info: API Started
+2022-05-07T08:50:38.300Z [my-bank-api] info: Server in port 3000
+2022-05-07T08:51:11.493Z [my-bank-api] info: API Started
+2022-05-07T08:51:11.495Z [my-bank-api] info: Server in port 3000
+2022-05-07T08:51:59.287Z [my-bank-api] error: GET /account - Registro não encontrado
+2022-05-07T08:52:07.100Z [my-bank-api] info: GET / Account 
+2022-05-07T08:52:14.629Z [my-bank-api] info: PATCH / account/updateBalance {
+  "id": 5,
+  "balance": "1,21"
+}
+2022-05-07T08:52:23.210Z [my-bank-api] info: PATCH / account/updateBalance {
+  "id": 5,
+  "balance": "1.21"
+}
+2022-05-07T08:52:32.076Z [my-bank-api] error: PUT /account - Registro não encontrado
+2022-05-07T08:52:37.555Z [my-bank-api] info: GET / Account 
+2022-05-07T08:53:06.619Z [my-bank-api] error: POST /account - Name e balance são obrigatórios
+2022-05-07T08:53:13.772Z [my-bank-api] info: GET / Account 
+2022-05-07T08:54:19.351Z [my-bank-api] error: GET /account - ENOENT: no such file or directory, open 'accounts.json'
+2022-05-07T08:55:50.821Z [my-bank-api] info: API Started
+2022-05-07T08:55:50.824Z [my-bank-api] info: Server in port 3000
+2022-05-07T08:56:00.784Z [my-bank-api] info: GET / Account 
+2022-05-07T08:56:09.030Z [my-bank-api] info: API Started
+2022-05-07T08:56:09.032Z [my-bank-api] info: Server in port 3000
+2022-05-07T08:56:27.726Z [my-bank-api] error: GET /account - ENOENT: no such file or directory, open 'accounts.json'
+2022-05-07T08:56:46.226Z [my-bank-api] info: GET / Account 

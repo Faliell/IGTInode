@@ -1,0 +1,30 @@
+{
+  "nextId": 12,
+  "accounts": [
+    {
+      "id": 5,
+      "name": "gaga Schapowal",
+      "balance": "1.21"
+    },
+    {
+      "id": 7,
+      "name": "gagaqwqe Schapowal",
+      "balance": "121121212.00"
+    },
+    {
+      "id": 9,
+      "name": "Fabio",
+      "balance": 1111111
+    },
+    {
+      "id": 10,
+      "name": "Fabio Schapowal",
+      "balance": 1234
+    },
+    {
+      "id": 11,
+      "name": "Fabio",
+      "balance": 1111111
+    }
+  ]
+}
